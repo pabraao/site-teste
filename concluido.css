@@ -1,0 +1,28 @@
+/* Corpo da página */
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;            
+    margin: 0;                
+    background-color: #f0f0f0;
+}
+
+/* Estilo da caixa concluído */
+.concluido {
+    text-align: center;
+    background-color: #f5dc6c85;  
+    padding: 20px;
+    border-radius: 10px;      
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+    max-width: 500px;        
+    width: 100%;             
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    border-radius: 20px;
+    
+}
